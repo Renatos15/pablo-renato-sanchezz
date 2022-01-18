@@ -1,10 +1,5 @@
-
-<!DOCTYPE html>
-<html>
-<body>
-  
-<hl1>New Mexico<h1>
-  <p>My first paragraph.</p>
-  
-  <body>
-    <html>
+I love Lego Ninjago Kai is cool zane is better lloyd noob. 
+This is my first repository
+Here I will learn some Front-End coding
+Lesson 1:
+How to create a repo in Github
