@@ -1,5 +1,5 @@
-I love Lego Ninjago Kai is cool zane is better lloyd noob. 
-This is my first repository
-Here I will learn some Front-End coding
-Lesson 1:
+#I love Lego Ninjago Kai is cool zane is better lloyd noob. 
+##This is my first repository
+###Here I will learn some Front-End coding
+####Lesson 1:
 How to create a repo in Github
